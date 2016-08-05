@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: 文 | My Octopress Blog]]></title>
+  <title><![CDATA[Category: 文 | wybflb's Blog]]></title>
   <link href="http://wybflb.github.io/blog/categories/wen/atom.xml" rel="self"/>
   <link href="http://wybflb.github.io/"/>
-  <updated>2016-08-05T15:27:40+08:00</updated>
+  <updated>2016-08-05T17:06:22+08:00</updated>
   <id>http://wybflb.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[wybflb]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
