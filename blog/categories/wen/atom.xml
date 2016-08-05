@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://wybflb.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 文 | My Octopress Blog]]></title>
+  <link href="http://wybflb.github.io/blog/categories/wen/atom.xml" rel="self"/>
   <link href="http://wybflb.github.io/"/>
   <updated>2016-08-05T15:27:40+08:00</updated>
   <id>http://wybflb.github.io/</id>
@@ -101,9 +101,8 @@
 
 <p>但是你没有</p>
 
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>人生有那么多的“我以为”，我以为你会一直在我身边，我以为你会一辈子视我如宝..... 可是随着时间流逝，也许你在某年某月某一天离开了；也许，你还真的就一直在我身边，视我如珍宝！！！</span></code></pre></td></tr></table></div></figure>
-
+<pre><code>人生有那么多的“我以为”，我以为你会一直在我身边，我以为你会一辈子视我如宝..... 可是随着时间流逝，也许你在某年某月某一天离开了；也许，你还真的就一直在我身边，视我如珍宝！！！
+</code></pre>
 ]]></content>
   </entry>
   
